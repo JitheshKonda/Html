@@ -1,0 +1,27 @@
+#  External CSS is a method of styling web pages where CSS rules are written in a separate ".css" file and linked to an HTML document using the "<link>" tag.
+
+#External program
+###output.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>External CSS</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <h1>Hello World</h1>
+  <p>This uses an external CSS file.</p>
+</body>
+</html>
+
+#index.css
+body {
+  background-color: #e0f7fa;
+  font-family: Verdana;
+}
+h1 {
+  color: #006064;
+}
+p {
+  color: #004d40;
+}
