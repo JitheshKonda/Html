@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+</head>
+<body>
+
+<h1>Student Profile</h1>
+
+<p><b>Name:</b> Jitesh </p>
+<p><b>Course:</b> AIML</p>
+<p><b>College:</b> KITS</p>
+<p><b>Email:</b>vinay23@gmail.com</p>
+
+</body>
+</html>
