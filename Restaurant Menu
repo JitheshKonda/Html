@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Menu</title>
+</head>
+<body>
+
+<h1>Restaurant Menu</h1>
+
+<ul>
+    <li>Veg Biryani - ₹180</li>
+    <li>Paneer Curry - ₹150</li>
+    <li>Fried Rice - ₹120</li>
+    <li>Ice Cream - ₹80</li>
+</ul>
+
+</body>
+</html>
