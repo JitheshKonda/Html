@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Demo</title>
+
+    <style>
+
+        body{
+            background-color:#f4f4f4;
+            font-family:Arial,sans-serif;
+        }
+
+        .container{
+            width:80%;
+            margin:30px auto;
+            background:white;
+            padding:20px;
+            border:3px solid green;
+            border-radius:10px;
+        }
+
+        h1{
+            text-align:center;
+            color:green;
+        }
+
+        .box{
+            background:#d9fdd3;
+            margin:20px;
+            padding:20px;
+            border:2px solid darkgreen;
+            border-radius:10px;
+        }
+
+        ul{
+            background:#fff3cd;
+            padding:15px;
+            border:2px solid orange;
+        }
+
+        ol{
+            background:#d1ecf1;
+            padding:15px;
+            border:2px solid blue;
+        }
+
+        li{
+            margin:10px;
+        }
+
+        .box:hover{
+            background:#c3f7b5;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Welcome to HTML & CSS Demo</h1>
+
+    <div class="box">
+        <h2>About HTML</h2>
+
+        <p>
+            HTML is used to create web pages. CSS is used to design web pages.
+        </p>
+    </div>
+
+    <div class="box">
+        <h2>HTML Topics</h2>
+
+        <ul>
+            <li>Headings</li>
+            <li>Paragraphs</li>
+            <li>Images</li>
+            <li>Links</li>
+            <li>Tables</li>
+        </ul>
+    </div>
+
+    <div class="box">
+        <h2>CSS Topics</h2>
+
+        <ol>
+            <li>Color</li>
+            <li>Margin</li>
+            <li>Padding</li>
+            <li>Border</li>
+            <li>Background</li>
+        </ol>
+    </div>
+
+</div>
+
+</body>
+</html>
