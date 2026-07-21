@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+    margin:40px;
+    font-family:Arial;
+}
+.box{
+    width:300px;
+    padding:20px;
+    margin:30px auto;
+    border:2px solid blue;
+    background-color:lightblue;
+    text-align:center;
+}
+</style>
+</head>
+<body>
+<div class="box">
+    <h2>Padding and Margin Example</h2>
+    <p>This box uses padding and margin.</p>
+</div>
+</body>
+</html>
