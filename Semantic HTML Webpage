@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>College Website</title>
+</head>
+<body>
+
+<header>
+    <h1>ABC Engineering College</h1>
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">Courses</a> |
+        <a href="#">Admissions</a> |
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<main>
+
+    <section>
+        <h2>About Us</h2>
+        <p>ABC Engineering College offers quality education in engineering and technology.</p>
+    </section>
+
+    <article>
+        <h2>Latest News</h2>
+        <p>Admissions for the academic year 2026 are now open.</p>
+    </article>
+
+    <aside>
+        <h3>Announcements</h3>
+        <ul>
+            <li>Campus Drive on August 10</li>
+            <li>Workshop on AI & ML</li>
+            <li>Semester Exams from September 1</li>
+        </ul>
+    </aside>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 ABC Engineering College. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
