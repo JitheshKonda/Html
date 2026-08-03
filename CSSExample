@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First CSS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card">
+        <h1>Student Profile</h1>
+        <p>Name: Vinay </p>
+        <p>Course: Java </p>
+        <p>Marks: 85 </p>
+        <button>View Result</button>
+    </div>
+</body>
+</html>
+
+
+#Style.css
+
+body {
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+.card {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.card h1 {
+    color: blue;
+}
+
+.card p {
+    font-size: 18px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: green;
+}
