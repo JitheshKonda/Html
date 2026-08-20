@@ -1,0 +1,9 @@
+<table border="1">
+    <tr>
+        <td rowspan="2">Merged Row</td>
+        <td>Cell 1</td>
+    </tr>
+    <tr>
+        <td>Cell 2</td>
+    </tr>
+</table>
